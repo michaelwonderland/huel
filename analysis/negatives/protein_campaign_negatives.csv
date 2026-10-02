@@ -1,0 +1,22 @@
+Campaign,Keyword,Criterion Type,Match Type,UI format
+UK_SEARCH_PROTEIN,meal replacement shakes for weight loss,Campaign negative exact,Exact,[meal replacement shakes for weight loss]
+UK_SEARCH_PROTEIN,meal replacement shakes uk for weight loss,Campaign negative phrase,Phrase,"""meal replacement shakes uk for weight loss"""
+UK_SEARCH_PROTEIN,best meal replacement shakes for weight loss,Campaign negative phrase,Phrase,"""best meal replacement shakes for weight loss"""
+UK_SEARCH_PROTEIN,best meal replacement for weight loss,Campaign negative phrase,Phrase,"""best meal replacement for weight loss"""
+UK_SEARCH_PROTEIN,meal replacement shake for weight loss,Campaign negative phrase,Phrase,"""meal replacement shake for weight loss"""
+UK_SEARCH_PROTEIN,meal replacement powder for weight loss,Campaign negative phrase,Phrase,"""meal replacement powder for weight loss"""
+UK_SEARCH_PROTEIN,meal replacement bars for weight loss,Campaign negative phrase,Phrase,"""meal replacement bars for weight loss"""
+UK_SEARCH_PROTEIN,weight loss meal replacement,Campaign negative phrase,Phrase,"""weight loss meal replacement"""
+UK_SEARCH_PROTEIN,weight loss shakes,Campaign negative exact,Exact,[weight loss shakes]
+UK_SEARCH_PROTEIN,best weight loss shakes,Campaign negative phrase,Phrase,"""best weight loss shakes"""
+UK_SEARCH_PROTEIN,weight loss shake,Campaign negative phrase,Phrase,"""weight loss shake"""
+UK_SEARCH_PROTEIN,weight loss shakes for men,Campaign negative phrase,Phrase,"""weight loss shakes for men"""
+UK_SEARCH_PROTEIN,weight loss shakes for women,Campaign negative phrase,Phrase,"""weight loss shakes for women"""
+UK_SEARCH_PROTEIN,vegan weight loss shakes,Campaign negative phrase,Phrase,"""vegan weight loss shakes"""
+UK_SEARCH_PROTEIN,gluten free weight loss shakes,Campaign negative phrase,Phrase,"""gluten free weight loss shakes"""
+UK_SEARCH_PROTEIN,best shakes for weight loss,Campaign negative phrase,Phrase,"""best shakes for weight loss"""
+UK_SEARCH_PROTEIN,best shake for weight loss,Campaign negative phrase,Phrase,"""best shake for weight loss"""
+UK_SEARCH_PROTEIN,diet shakes for weight loss,Campaign negative phrase,Phrase,"""diet shakes for weight loss"""
+UK_SEARCH_PROTEIN,weight loss drink,Campaign negative phrase,Phrase,"""weight loss drink"""
+UK_SEARCH_PROTEIN,lose weight fast,Campaign negative phrase,Phrase,"""lose weight fast"""
+UK_SEARCH_PROTEIN,weight loss meal plan,Campaign negative phrase,Phrase,"""weight loss meal plan"""
